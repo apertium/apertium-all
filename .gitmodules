@@ -1,0 +1,40 @@
+[submodule "apertium-languages"]
+	path = apertium-languages
+	url = git@github.com:apertium/apertium-languages.git
+	branch = master
+[submodule "apertium-trunk"]
+	path = apertium-trunk
+	url = git@github.com:apertium/apertium-trunk.git
+	branch = master
+[submodule "apertium-incubator"]
+	path = apertium-incubator
+	url = git@github.com:apertium/apertium-incubator.git
+	branch = master
+[submodule "apertium-separable"]
+	path = apertium-separable
+	url = git@github.com:apertium/apertium-separable.git
+	branch = master
+[submodule "apertium"]
+	path = apertium
+	url = git@github.com:apertium/apertium.git
+	branch = master
+[submodule "lttoolbox"]
+	path = lttoolbox
+	url = git@github.com:apertium/lttoolbox.git
+	branch = master
+[submodule "apertium-staging"]
+	path = apertium-staging
+	url = git@github.com:apertium/apertium-staging.git
+	branch = master
+[submodule "apertium-tools"]
+	path = apertium-tools
+	url = git@github.com:apertium/apertium-tools.git
+	branch = master
+[submodule "apertium-lex-tools"]
+	path = apertium-lex-tools
+	url = git@github.com:apertium/apertium-lex-tools.git
+	branch = master
+[submodule "apertium-nursery"]
+	path = apertium-nursery
+	url = git@github.com:apertium/apertium-nursery.git
+	branch = master
