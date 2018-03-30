@@ -1,9 +1,24 @@
 # apertium-all
 
-[Apertium][1] is a free/open-source platform for developing rule-based machine 
+[Apertium][1] is a free/open-source platform for developing rule-based machine
 translation systems.
 
-This repository holds submodules to core tools, other tools and all Apertium
+This repository holds submodules to core tools, other tools, and all Apertium
 language modules and pairs.
 
+To clone this repository with all its submodules, run
+
+    git clone --recurse-submodules --shallow-submodules --depth 1 https://github.com/apertium/apertium-all.git
+
+(Change `--depth 1` to `--depth N` to get the last N commits.)
+
+To make a commit:
+
+    git submodule foreach 'git commit -a -m <message>'
+    git submodule foreach 'git push'
+
+More information about using git is [on the wiki][2]. More information about the
+submodules is in the READMEs of those repositories under https://github.com/apertium.
+
 [1]: http://wiki.apertium.org/
+[2]: http://wiki.apertium.org/wiki/Using_Git
