@@ -38,3 +38,15 @@
 	path = apertium-nursery
 	url = git@github.com:apertium/apertium-nursery.git
 	branch = master
+[submodule "apertium-recursive"]
+	path = apertium-recursive
+	url = git@github.com:apertium/apertium-recursive.git
+	branch = master
+[submodule "lexd"]
+	path = lexd
+	url = git@github.com:apertium/lexd.git
+	branch = master
+[submodule "apertium-anaphora"]
+	path = apertium-anaphora
+	url = git@github.com:apertium/apertium-anaphora.git
+	branch = master
