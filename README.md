@@ -25,5 +25,5 @@ To make a commit to each changed submodule:
 More information about using Git is [on the wiki][2]. More information about the
 submodules is in the READMEs of those repositories under https://github.com/apertium.
 
-[1]: http://wiki.apertium.org/
-[2]: http://wiki.apertium.org/wiki/Using_Git
+[1]: https://wiki.apertium.org/
+[2]: https://wiki.apertium.org/wiki/Using_Git
